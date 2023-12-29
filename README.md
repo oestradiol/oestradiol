@@ -46,10 +46,3 @@ Frameworks/Libs: ASP.NET Core, Angular, Node, React, Next, Bootstrap, Tailwind, 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oestradiol&theme=monokai&margin-w=14&margin-w=15&no-bg=true&no-frame=true&">
 </div>
-<div align="center">
-    <span>Current: </br></span>
-    <img align="top" alt="" src="https://komarev.com/ghpvc/?username=oestradiol&color=brightgreen&style=flat-square" />
-    </br>
-    <span>Old: </br></span>
-    <img align="top" alt="" src="https://raw.githubusercontent.com/oestradiol/oestradiol/main/old_profile_view_count.png" />
-</div>
