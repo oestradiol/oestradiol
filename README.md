@@ -26,7 +26,7 @@
 #
 
 ### 💻 Experiences
-Languages: C#, C, C++, TypeScript/JavaScript, Python, Dart, HTML5, CSS, SQL, Assembly Risc-V and IA-32. <br>
+Languages: C#, C, C++, TypeScript/JavaScript, Kotlin, Python, Dart, HTML5, CSS, SQL, Assembly Risc-V and IA-32. <br>
 Frameworks/Libs: ASP.NET Core, Angular, Node, React, Next, Bootstrap, Tailwind, MSSQL, MySQL, Postgres, MongoDB, Flutter.
 
 #
