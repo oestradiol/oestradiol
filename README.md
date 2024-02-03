@@ -16,7 +16,7 @@
 - 💊 When administered orally and micronised, my absolute bioavailability is of approximately 5%, with a possible range of 0.1% to 12%.
 - 🏳‍⚧ Pronouns: `she/they`
 - 💡 My main languages are C# and Typescript/JavaScript.
-- 📫 You can reach me at: <a href="mailto:17bestradiol@proton.me">17bestradiol@proton.me</a> / <a href="mailto:elynn@meowers.dev">elynn@meowers.dev</a>.
+- 📫 You can reach me at: <a href="mailto:17bestradiol@proton.me">17bestradiol@proton.me</a> / <a href="mailto:elaina@pinkcloud.studio">elaina@pinkcloud.studio</a>.
 - 📺 My name is inspired on Elaina (イレイナ), the main character of the show [Majo no Tabitabi (Wandering Witch)](https://anilist.co/anime/112609/Majo-no-Tabitabi)!.
 <p align="center">
   * Also reach me at Discord: <br>
