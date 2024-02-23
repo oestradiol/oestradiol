@@ -37,12 +37,24 @@ Frameworks/Libs: ASP.NET Core, Angular, Node, React, Next, Bootstrap, Tailwind, 
   <span>Old: <img align="top" alt="" src="https://raw.githubusercontent.com/oestradiol/oestradiol/main/old_profile_view_count.png" /></span>
 </div>
 <div align="center">
-  <img width="480px" src="https://github-readme-stats.vercel.app/api?username=oestradiol&show_icons=true&theme=transparent&hide_border=true">
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oestradiol&theme=transparent&hide=html,css,handlebars&layout=donut&hide_border=true">
+  <img width="440px" src="https://github-readme-stats-git-main-oestradiol.vercel.app/api?username=oestradiol&show_icons=true&theme=prussian&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true">
+  <img width="273px" src="https://github-readme-stats-git-main-oestradiol.vercel.app/api/top-langs?username=oestradiol&theme=prussian&layout=compact&hide_border=true&langs_count=14&exclude_repo=github-readme-streak-stats,github-readme-stats&hide=html&bg_color=00000000">
 </div>
 <div align="center">
-  <img width="400px" src="https://streak-stats.demolab.com/?user=oestradiol&hide_border=true&theme=transparent">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-oestradiol.vercel.app?user=oestradiol&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=00000000" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oestradiol&theme=monokai&margin-w=14&margin-w=15&no-bg=true&no-frame=true&">
+  <a href="https://wakatime.com/@2db42ccb-fd47-4b64-8bf6-0cd841b37f33"><img src="https://wakatime.com/badge/user/2db42ccb-fd47-4b64-8bf6-0cd841b37f33.svg?style=for-the-badge" alt="Total time coded since Jul 17 2023" /></a>
 </div>
+<div align="center">
+  <img width="200px" src="https://github-profile-trophy-git-master-oestradiol.vercel.app/?username=oestradiol&theme=onestar&no-bg=true&no-frame=true&row=4&column=2">
+  <img width="500px" src="https://github-readme-stats-git-main-oestradiol.vercel.app/api/wakatime?username=Elainya&theme=prussian&hide_border=true&bg_color=00000000&line_height=25&layout=default&custom_title=WakaTime+Stats+(Since%20uhh%2C%20yesterday)&langs_count=14">
+</div>
+
+#
+
+### 👥 Meet my Friends
+
+- [atomoxetine](https://github.com/atomoxetine/)
+- [aripiprazole](https://github.com/aripiprazole/)
+- [ohemilyy](https://github.com/ohemilyy/)
