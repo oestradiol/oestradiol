@@ -20,7 +20,7 @@
 - 📺 My name is inspired on Elaina (イレイナ), the main character of the show [Majo no Tabitabi (Wandering Witch)](https://anilist.co/anime/112609/Majo-no-Tabitabi)!.
 <p align="center">
   * Also reach me at Discord: <br>
-  <a href="https://discord.com/users/227477384356429824" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=@&message=nekolynn&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a> <br>
+  <a href="https://discord.com/users/227477384356429824" target="_blank"><img alt="Discord" src="https://lanyard.cnrad.dev/api/227477384356429824?bg=35013d&borderRadius=15px&showDisplayName=true&idleMessage=Probably%20being%20%F0%9F%8F%B3%E2%80%8D%F0%9F%8C%88%20somewhere..." /></a> <br>
 <p/>
 
 #
