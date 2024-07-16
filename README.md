@@ -15,7 +15,6 @@
 
 - 💊 When administered orally and micronised, my absolute bioavailability is of approximately 5%, with a possible range of 0.1% to 12%.
 - 🏳‍⚧ Pronouns: `she/they`
-- 💡 My main languages are C# and Typescript/JavaScript.
 - 📫 You can reach me at: <a href="mailto:17bestradiol@proton.me">17bestradiol@proton.me</a>.
 - 📺 My name is inspired on Elaina (イレイナ), the main character of the show [Majo no Tabitabi (Wandering Witch)](https://anilist.co/anime/112609/Majo-no-Tabitabi)!.
 <p align="center">
@@ -26,7 +25,7 @@
 #
 
 ### 💻 Experiences
-Languages: C#, C, C++, TypeScript/JavaScript, Rust <3, Kotlin, Python, Dart, HTML5, CSS, SQL, Assembly Risc-V and IA-32. <br>
+Languages: C#, C, C++, TypeScript/JavaScript, Rust, Kotlin, Python, Dart, HTML5, CSS, SQL, Assembly Risc-V and IA-32. <br>
 Frameworks/Libs: ASP.NET Core, Angular, Node, React, Next, Bootstrap, Tailwind, MSSQL, MySQL, Postgres, MongoDB, Flutter.
 
 #
