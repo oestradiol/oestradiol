@@ -27,11 +27,11 @@ My interests are logic, math, science, and programming. I'm also a big fan of FO
 #
 
 <div>
-  <img align="right" width="400px" src="https://github-profile-trophy-git-master-oestradiol.vercel.app/?username=oestradiol&theme=dracula&no-bg=true&no-frame=true&row=3&column=3">
+  <img align="right" width="350px" src="https://github-profile-trophy-git-master-oestradiol.vercel.app/?username=oestradiol&theme=dracula&no-bg=true&no-frame=true&row=3&column=3">
   <div align="left">
-      <img width="440px" src="https://github-readme-streak-stats-git-main-oestradiol.vercel.app?user=oestradiol&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=000000" alt="GitHub Streak" />
+      <img width="400px" src="https://github-readme-streak-stats-git-main-oestradiol.vercel.app?user=oestradiol&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=000000" alt="GitHub Streak" />
     <br>
-      <img width="440px" src="https://github-readme-stats-git-main-oestradiol.vercel.app/api?username=oestradiol&show_icons=true&count_private=false&theme=midnight-purple&bg_color=000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true">
+      <img width="400px" src="https://github-readme-stats-git-main-oestradiol.vercel.app/api?username=oestradiol&show_icons=true&count_private=false&theme=midnight-purple&bg_color=000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true">
   </div>
 </div>
 
