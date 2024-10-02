@@ -20,7 +20,7 @@ My interests are logic, math, science, and programming. I'm also a big fan of FO
 - 🇧🇷 I'm from `Brazil`!
 - ♥️ I am a Rust lover 🦀
 - 🌐 I can speak English, Portuguese, some Japanese and some Spanish!
-- 📫 You can reach me at: 17bestradiol@proton.me
+- 📫 You can reach me at 17bestradiol@proton.me or on my Discord at elainya_
 - 📺 My name is inspired on Elaina (イレイナ), the main character of `Majo no Tabitabi (Wandering Witch)`.
 ```
 
