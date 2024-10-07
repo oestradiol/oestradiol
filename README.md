@@ -8,9 +8,8 @@
 </div>
 
 ```md
-
-I'm Elaina. A Fullstack Developer and a Computer Science (C.S.) undergraduate.
-My interests are logic, math, science, and programming. I'm also a big fan of FOSS.
+I'm Elaina! A Full-Stack Developer and a Computer Science (C.S.) undergraduate.
+My interests are logic, maths, science, and programming. I'm also a big fan of FOSS <3
 
 # 💭 A few things about me
 
