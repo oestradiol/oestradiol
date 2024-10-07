@@ -2,7 +2,7 @@
 
 <div align="right">
   
-![Github Sponsors](https://img.shields.io/badge/Sponsor%20me!-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)
+[![Github Sponsors](https://img.shields.io/badge/Sponsor%20me!-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/oestradiol)
 ![Profile Views](https://komarev.com/ghpvc/?username=oestradiol&style=for-the-badge&color=9745F5)
 
 </div>
