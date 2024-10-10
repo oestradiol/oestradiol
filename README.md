@@ -10,7 +10,7 @@
 
 ```md
 I'm Elaina! A Full-Stack Developer and a Computer Science (C.S.) undergraduate.
-My interests are logic, maths, science, and programming. I'm also a big fan of FOSS <3
+My interests are logic, math, science, and programming. I'm also a big fan of FOSS <3
 
 # 💭 A few things about me
 
@@ -18,9 +18,9 @@ My interests are logic, maths, science, and programming. I'm also a big fan of F
   with a possible range of 0.1% to 12%.
 - 🏳️‍⚧️ Pronouns: `it/they/she`
 - 🇧🇷 I'm from `Brazil`!
-- ♥️ I am a Rust lover 🦀
+- ♥️ My favourite programming language is Rust 🦀
 - 🌐 I can speak English, Portuguese, some Japanese and some Spanish!
-- 📫 You can reach me at 17bestradiol@proton.me or on my Discord at elainya\_
+- 📫 You can reach me at 17bestradiol@proton.me or on my Discord at elainya_
 - 📺 My name is inspired on Elaina (イレイナ), the main character of `Majo no Tabitabi (Wandering Witch)`.
 ```
 
