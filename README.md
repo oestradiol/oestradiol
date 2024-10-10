@@ -2,7 +2,8 @@
 
 <div align="right">
   
-[![Github Sponsors](https://img.shields.io/badge/Sponsor%20me!-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/oestradiol)
+<a href="https://ko-fi.com/R6R214EJ9D"><img width="142px" alt="Support me on Ko-fi - elainya" title="Thank you! <3" src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_beige.png"></a>
+<a href="https://github.com/sponsors/oestradiol"><img alt="Sponsor me! - oestradiol" title="Thank you! <3" src="https://img.shields.io/badge/Sponsor%20me!-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white"></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=oestradiol&style=for-the-badge&color=9745F5)
 
 </div>
@@ -19,16 +20,16 @@ My interests are logic, maths, science, and programming. I'm also a big fan of F
 - 🇧🇷 I'm from `Brazil`!
 - ♥️ I am a Rust lover 🦀
 - 🌐 I can speak English, Portuguese, some Japanese and some Spanish!
-- 📫 You can reach me at 17bestradiol@proton.me or on my Discord at elainya_
+- 📫 You can reach me at 17bestradiol@proton.me or on my Discord at elainya\_
 - 📺 My name is inspired on Elaina (イレイナ), the main character of `Majo no Tabitabi (Wandering Witch)`.
 ```
 
 #
 
 <div>
-  <img align="right" width="382px" src="https://github-profile-trophy-git-master-oestradiol.vercel.app/?username=oestradiol&theme=dracula&no-bg=true&no-frame=true&row=3&column=3">
+  <img align="right" width="382px" src="https://github-profile-trophy.vercel.app/?username=oestradiol&theme=dracula&no-bg=true&no-frame=true&row=3&column=3">
   <div align="left">
-      <img width="420px" src="https://github-readme-streak-stats-git-main-oestradiol.vercel.app?user=oestradiol&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=000000" alt="GitHub Streak" />
+      <img width="420px" src="https://streak-stats.demolab.com?user=oestradiol&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=000000" alt="GitHub Streak" />
     <br>
       <img width="420px" src="https://github-readme-stats-git-main-oestradiol.vercel.app/api?username=oestradiol&show_icons=true&count_private=false&theme=midnight-purple&bg_color=000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true">
   </div>
@@ -74,7 +75,6 @@ My interests are logic, maths, science, and programming. I'm also a big fan of F
 ![Node](https://img.shields.io/badge/Node-43853D.svg?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -93,11 +93,12 @@ My interests are logic, maths, science, and programming. I'm also a big fan of F
 #
 
 ### 👥 Meet my Friends
+
 - [atomoxetine](https://github.com/atomoxetine/)
 - [aripiprazole](https://github.com/aripiprazole/)
 - [ohemilyy](https://github.com/ohemilyy/)
 
-<!--  
+<!--
 <details>
 <summary><h3>📊 Statistics</h3></summary>
   <img width="273px" src="https://github-readme-stats-git-main-oestradiol.vercel.app/api/top-langs?username=oestradiol&theme=dracula&count_private=false&layout=compact&hide_border=true&langs_count=14&exclude_repo=LunarShell,astro-nvim_config&hide=html,hlsl,glsl,css,lua,shaderlab,scss&bg_color=00000000">
