@@ -40,7 +40,7 @@ My interests are logic, math, science, and programming. I'm also a big fan of FO
 <h3 align="center">🌐 Socials</h3>
 <div align="center">
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+<img alt="Discord: elainya_" title="Discord: elainya_" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"><!---->
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:17bestradiol@proton.me)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://elynn.bsky.social)
 
