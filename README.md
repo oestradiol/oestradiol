@@ -19,7 +19,7 @@ My interests are logics, maths, science, and programming. I'm also a big fan of 
 - 🇧🇷 I'm from `Brazil`!
 - ♥️ My favourite programming language is Rust 🦀
 - 🌐 I can speak English, Portuguese, intermediate Spanish and some Japanese!
-- 📫 You can reach me by email at `the@witchy.mom` or on Bluesky at `witchy.mom`
+- 📫 You can reach me by email at `17bestradiol@proton.me`
 - 📺 My name is inspired by Elaina (イレイナ), the main character of `Majo no Tabitabi (Wandering Witch)`.
 ```
 
