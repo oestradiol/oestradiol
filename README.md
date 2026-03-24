@@ -25,29 +25,18 @@ My interests are logics, maths, science, and programming. I'm also a big fan of 
 
 #
 
-<div>
-  <img align="right" width="382px" src="https://github-profile-trophy.vercel.app/?username=oestradiol&theme=dracula&no-bg=true&no-frame=true&row=3&column=3">
-  <div align="left">
-      <img width="420px" src="https://streak-stats.demolab.com?user=oestradiol&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=000000" alt="GitHub Streak" />
-    <br>
-      <img width="420px" src="https://github-readme-stats-git-main-oestradiol.vercel.app/api?username=oestradiol&show_icons=true&count_private=false&theme=midnight-purple&bg_color=000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true">
-  </div>
-</div>
-
-#
-
 <h3 align="center">🌐 Socials</h3>
 <div align="center">
 
 <!--<a href="https://discordapp.com/users/227477384356429824">
   <img alt="Discord: elainya_" title="Discord: elainya_" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>-->
-<a href="mailto:the@witchy.mom">
-  <img alt="Email: the@witchy.mom" title="Email: the@witchy.mom" src="https://img.shields.io/badge/email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+<a href="mailto:17bestradiol@proton.me">
+  <img alt="Email: 17bestradiol@proton.me" title="Email: 17bestradiol@proton.me" src="https://img.shields.io/badge/email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
 </a>
-<a href="https://bsky.app/profile/witchy.mom">
+<!--<a href="https://bsky.app/profile/witchy.mom">
   <img alt="Bluesky: witchy.mom" title="Bluesky: witchy.mom" src="https://img.shields.io/badge/Bluesky-%230285FF?style=for-the-badge&logo=Bluesky&logoColor=white">
-</a>
+</a>-->
 
 </div>
 
