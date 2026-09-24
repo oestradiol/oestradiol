@@ -23,6 +23,14 @@ My interests are philosophy, logics, maths, science, and programming. I'm also a
 - 📺 Elaina (イレイナ) is the main character of `Majo no Tabitabi (Wandering Witch)`.
 ```
 
+## 🔬 Research
+
+I’m building **[Venus-Minerva](https://github.com/oestradiol/Venus-Minerva)**, an open research repository spanning formal methods, developmental AI, reproducible experiments, and cross-domain research.
+
+The project is designed to be criticized and reproduced: negative results stay visible, formal/engineering/physical/speculative claims remain separated, and the public research frontier is organized into bounded, reviewable problems.
+
+Contributions, independent checks, counterexamples, formalizations, and sponsorship for compute and publication are welcome.
+
 #
 
 <h3 align="center">🌐 Socials</h3>
