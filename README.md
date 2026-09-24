@@ -8,19 +8,19 @@
 </div>
 
 ```md
-I'm Elaina! A Full-Stack Developer and a Computer Science (C.S.) undergraduate.
-My interests are logics, maths, science, and programming. I'm also a big fan of FOSS!
+I'm Elaina! A Computer Science (C.S.) researcher.
+My interests are philosophy, logics, maths, science, and programming. I'm also a big fan of FOSS!
 
 # 💭 A few things about me
 
 - 💊 When administered orally and micronised, my absolute bioavailability is of approximately 5%,
   with a possible range of 0.1% to 12%.
-- 💬 Pronouns: `it/they/she`
+- 💬 Pronouns: `she/they/it`
 - 🇧🇷 I'm from `Brazil`!
 - ♥️ My favourite programming language is Rust 🦀
-- 🌐 I can speak English, Portuguese, intermediate Spanish and some Japanese!
+- 🌐 I can speak English, Portuguese, intermediate Spanish and Japanese!
 - 📫 You can reach me by email at `17bestradiol@proton.me`
-- 📺 My name is inspired by Elaina (イレイナ), the main character of `Majo no Tabitabi (Wandering Witch)`.
+- 📺 Elaina (イレイナ) is the main character of `Majo no Tabitabi (Wandering Witch)`.
 ```
 
 #
