@@ -25,7 +25,7 @@ My interests are philosophy, logics, maths, science, and programming. I'm also a
 
 ## 🔬 Research
 
-I’m building **[Venus-Minerva](https://github.com/oestradiol/Venus-Minerva)**, an open research repository spanning formal methods, developmental AI, reproducible experiments, and cross-domain research.
+I’m building **[Arcane Magics](https://github.com/oestradiol/Arcane-Magics)**, an open research repository spanning formal methods, developmental AI, reproducible experiments, and cross-domain research.
 
 The project is designed to be criticized and reproduced: negative results stay visible, formal/engineering/physical/speculative claims remain separated, and the public research frontier is organized into bounded, reviewable problems.
 
